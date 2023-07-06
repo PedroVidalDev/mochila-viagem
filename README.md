@@ -7,3 +7,4 @@ Projeto feito durante formação JavaScript da Alura, tendo como foco entender c
 - JavaScript
 
 ## Resultado: 
+![mochila](https://github.com/PedroVidalDev/mochila-viagem/assets/113215138/b8c2d91f-b821-49ef-ab87-669be7ad5c19)
